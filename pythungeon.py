@@ -1,2 +1,2 @@
 print("Welcome to the Pythungeon!")
-print("Hello")
+input("Press ENTER to play.")
