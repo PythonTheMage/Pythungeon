@@ -1,6 +1,13 @@
+import random
+
 print("Welcome to the Pythungeon!")
-input("Press ENTER to play.")
-# Need to Generate a Dungeon (5x5)
-# Need to Generate character attributes
-# Need to Spawn Character
-changes
+print("Now being used as a sandbox for rpg combat")
+
+STR = 2
+
+while True:
+    input("Press Enter")
+
+    mSTR = STR+5
+    AP = random.randint(STR,mSTR)
+    print(AP)
