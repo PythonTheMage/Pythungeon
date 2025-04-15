@@ -1,7 +1,7 @@
 import random
 
-print("Welcome to the Pythungeon!")
-print("Now being used as a sandbox for rpg combat")
+print("RPG COMBAT SIMULATION")
+
 
 STR = 2
 
